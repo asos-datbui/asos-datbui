@@ -1,5 +1,5 @@
 👋 Hi, I'm Dat
-I'm a Site Reliability Engineer at ASOS.
+I'm an Engineer in the Internal Developer Tooling team at ASOS.
 
 Mostly working on Backstage, Scale Automation Service, xMatters and more.
 
